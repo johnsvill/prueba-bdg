@@ -1,0 +1,10 @@
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\bin\Debug\ProyectoDivisores.exe.config
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\bin\Debug\ProyectoDivisores.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\bin\Debug\ProyectoDivisores.pdb
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.Form1.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.Properties.Resources.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.csproj.GenerateResource.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\ProyectoDivisores\ProyectoDivisores\obj\Debug\ProyectoDivisores.pdb
